@@ -1,0 +1,6 @@
+{
+  "name": "Kids Learn",
+  "description": "Interactive kids learning app for alphabets, numbers, and colors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
